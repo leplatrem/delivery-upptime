@@ -1,7 +1,7 @@
 url: https://delivery-checks.prod.mozaws.net/checks/remotesettings-lambdas
-status: up
-code: 200
-responseTime: 67
-lastUpdated: 2021-04-22T23:13:54.534Z
+status: down
+code: 503
+responseTime: 17
+lastUpdated: 2021-04-23T20:47:35.250Z
 startTime: Mon Jan 04 2021 15:40:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
