@@ -1,7 +1,7 @@
 url: https://delivery-checks.prod.mozaws.net/checks/remotesettings-uptake-release
-status: up
-code: 200
-responseTime: 20091
-lastUpdated: 2021-04-25T23:14:40.384Z
+status: down
+code: 503
+responseTime: 17374
+lastUpdated: 2021-04-26T04:00:41.495Z
 startTime: Mon Jan 04 2021 15:40:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
