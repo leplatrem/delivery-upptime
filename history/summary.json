@@ -72,17 +72,17 @@
     "url": "https://delivery-checks.prod.mozaws.net/checks/remotesettings-uptake-release",
     "icon": "https://favicons.githubusercontent.com/delivery-checks.prod.mozaws.net",
     "slug": "rs-uptake",
-    "status": "up",
-    "uptime": "86.37%",
-    "uptimeDay": "54.45%",
-    "uptimeWeek": "58.19%",
+    "status": "down",
+    "uptime": "86.45%",
+    "uptimeDay": "63.23%",
+    "uptimeWeek": "58.80%",
     "uptimeMonth": "80.49%",
-    "uptimeYear": "86.37%",
-    "time": 2992,
-    "timeDay": 4803,
-    "timeWeek": 2864,
-    "timeMonth": 3625,
-    "timeYear": 2992,
+    "uptimeYear": "86.45%",
+    "time": 3026,
+    "timeDay": 6494,
+    "timeWeek": 3404,
+    "timeMonth": 3795,
+    "timeYear": 3026,
     "dailyMinutesDown": {
       "2021-06-29": 511,
       "2021-06-28": 740,
@@ -153,8 +153,7 @@
       "2021-02-04": 187,
       "2021-02-02": 309,
       "2021-02-01": 216,
-      "2021-01-31": 582,
-      "2021-01-29": 182
+      "2021-01-31": 582
     }
   },
   {
